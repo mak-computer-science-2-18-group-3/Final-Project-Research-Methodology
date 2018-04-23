@@ -1,0 +1,222 @@
+Year,Product,Value
+1991,"Rice, paddy",61000
+1991,Maize,567000
+1991,Millet,576000
+1991,Sorghum,363000
+1991,Cassava,3229000
+1991,Potatoes,254000
+1991,Sweet potatoes,1785000
+1991,"Beans, dry",382500
+1991,"Peas, dry",15000
+1991,"Cow peas, dry",40000
+1991,Pigeon peas,50000
+1991,Soybeans,59000
+1991,"Groundnuts, with shell",144000
+1991,Sunflower seed,
+1991,Sesame seed,61000
+1991,Bananas,8080000
+1991,Wheat,9000
+1992,"Rice, paddy",68000
+1992,Wheat,9000
+1992,Millet,634000
+1992,Maize,657000
+1992,Cassava,2896000
+1992,Sorghum,375000
+1992,Sweet potatoes,1905000
+1992,Potatoes,268000
+1992,"Peas, dry",15000
+1992,"Beans, dry",402000
+1992,Pigeon peas,51000
+1992,"Cow peas, dry",41000
+1992,"Groundnuts, with shell",147000
+1992,Soybeans,53000
+1992,Sesame seed,72000
+1992,Sunflower seed,31000
+1992,Bananas,7806000
+1993,"Rice, paddy",74000
+1993,Maize,804000
+1993,Wheat,9000
+1993,Cassava,3139000
+1993,Potatoes,320000
+1993,Millet,610000
+1993,Sorghum,383000
+1993,"Peas, dry",16000
+1993,"Cow peas, dry",43000
+1993,Sweet potatoes,1958000
+1993,"Beans, dry",428000
+1993,"Groundnuts, with shell",153000
+1993,Sunflower seed,35000
+1993,Pigeon peas,53000
+1993,Soybeans,67000
+1993,Bananas,8222000
+1993,Sesame seed,75000
+1994,Bananas,8500000
+1994,Sesame seed,70000
+1994,Sunflower seed,39000
+1994,"Rice, paddy",77000
+1994,Wheat,9000
+1994,Cassava,2080000
+1994,Sorghum,390000
+1994,Millet,610000
+1994,Maize,850000
+1994,"Peas, dry",17000
+1994,"Beans, dry",378000
+1994,Sweet potatoes,2129000
+1994,Potatoes,368000
+1994,"Groundnuts, with shell",142000
+1994,Soybeans,75000
+1994,Pigeon peas,55000
+1994,"Cow peas, dry",45000
+1995,Sesame seed,71000
+1995,Bananas,9012000
+1995,"Groundnuts, with shell",144000
+1995,Sunflower seed,44000
+1995,Soybeans,79000
+1995,Pigeon peas,58000
+1995,"Cow peas, dry",45000
+1995,"Peas, dry",16000
+1995,"Beans, dry",390000
+1995,Sweet potatoes,2223000
+1995,Potatoes,402000
+1995,Cassava,2224000
+1995,Sorghum,399000
+1995,Millet,632000
+1995,Maize,913000
+1995,"Rice, paddy",77000
+1995,Wheat,9000
+1996,"Cow peas, dry",47000
+1996,Pigeon peas,58000
+1996,"Beans, dry",234000
+1996,"Peas, dry",17000
+1996,Potatoes,318000
+1996,Sweet potatoes,1548000
+1996,Sorghum,298000
+1996,Cassava,2245000
+1996,Maize,759000
+1996,Millet,440000
+1996,Wheat,9000
+1996,"Rice, paddy",82000
+1996,Bananas,9144000
+1996,"Groundnuts, with shell",125000
+1996,Soybeans,87000
+1996,Sesame seed,73000
+1996,Sunflower seed,49000
+1997,Sesame seed,73000
+1997,Bananas,9303000
+1997,Pigeon peas,59000
+1997,Soybeans,84000
+1997,"Groundnuts, with shell",91000
+1997,Sunflower seed,54000
+1997,"Beans, dry",221000
+1997,Sweet potatoes,1894000
+1997,"Cow peas, dry",46000
+1997,"Peas, dry",20000
+1997,Sorghum,294000
+1997,Millet,502000
+1997,Potatoes,360000
+1997,Cassava,2291000
+1997,Wheat,9000
+1997,Maize,740000
+1997,"Rice, paddy",80000
+1998,"Groundnuts, with shell",140000
+1998,Soybeans,92000
+1998,Pigeon peas,61000
+1998,"Cow peas, dry",50000
+1998,Bananas,9318000
+1998,Sesame seed,77000
+1998,Sunflower seed,57000
+1998,Potatoes,384000
+1998,Sweet potatoes,2176000
+1998,"Beans, dry",387000
+1998,"Peas, dry",19000
+1998,Maize,924000
+1998,Millet,642000
+1998,Sorghum,420000
+1998,Cassava,3204000
+1998,Wheat,9000
+1998,"Rice, paddy",90000
+1999,Pigeon peas,76000
+1999,Soybeans,101000
+1999,"Peas, dry",19000
+1999,"Cow peas, dry",62000
+1999,Sesame seed,93000
+1999,Bananas,8949000
+1999,"Groundnuts, with shell",137000
+1999,Sunflower seed,65000
+1999,Sorghum,413000
+1999,Millet,606000
+1999,Maize,1053000
+1999,"Rice, paddy",95000
+1999,"Beans, dry",401000
+1999,Sweet potatoes,2354000
+1999,Potatoes,449000
+1999,Cassava,4875000
+1999,Wheat,11000
+2000,Maize,1096000
+2000,Millet,534000
+2000,Wheat,12000
+2000,"Rice, paddy",109000
+2000,Potatoes,478000
+2000,Sweet potatoes,2398000
+2000,Sorghum,361000
+2000,Cassava,4966000
+2000,Bananas,9428000
+2000,"Peas, dry",16000
+2000,"Beans, dry",420000
+2000,Pigeon peas,78000
+2000,"Cow peas, dry",60000
+2000,"Groundnuts, with shell",139000
+2000,Soybeans,128000
+2000,Sesame seed,97000
+2000,Sunflower seed,79000
+2001,Sesame seed,102000
+2001,Bananas,9732000
+2001,Sweet potatoes,2515000
+2001,"Beans, dry",511000
+2001,"Peas, dry",15000
+2001,"Cow peas, dry",59000
+2001,Pigeon peas,80000
+2001,Soybeans,144000
+2001,"Groundnuts, with shell",146000
+2001,Sunflower seed,99000
+2001,Wheat,14000
+2001,Maize,1174000
+2001,"Rice, paddy",114000
+2001,Sorghum,423000
+2001,Millet,584000
+2001,Potatoes,508000
+2001,Cassava,5265000
+2002,Soybeans,166000
+2002,"Groundnuts, with shell",148000
+2002,"Cow peas, dry",59400
+2002,Pigeon peas,82000
+2002,"Beans, dry",536000
+2002,"Peas, dry",16200
+2002,Potatoes,546000
+2002,Sweet potatoes,2592000
+2002,Bananas,9888000
+2002,Sunflower seed,124000
+2002,Sesame seed,106000
+2002,Wheat,14000
+2002,"Rice, paddy",120000
+2002,Maize,1217000
+2002,Millet,590000
+2002,Sorghum,427000
+2002,Cassava,5373000
+2003,Soybeans,160000
+2003,Pigeon peas,84000
+2003,"Cow peas, dry",67000
+2003,"Peas, dry",13500
+2003,"Beans, dry",525000
+2003,Sweet potatoes,2610000
+2003,Potatoes,557000
+2003,Cassava,5450000
+2003,Bananas,9700000
+2003,Sesame seed,120000
+2003,Sunflower seed,160000
+2003,"Groundnuts, with shell",220000
+2003,Millet,640000
+2003,Sorghum,421000
+2003,"Rice, paddy",132000
+2003,Maize,1300000
+2003,Wheat,15000

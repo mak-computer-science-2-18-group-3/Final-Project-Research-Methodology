@@ -1,0 +1,11 @@
+http://countrystat.org/home.aspx?c=UGA&ta=226CPD010&tr=7
+http://data.ug
+https://ubos.org
+http://sdwebx.worldbank.org/climateportal/index.cfm?page=downscaled_data_download&menu=historical
+
+http://benalexkeen.com/correlation-in-python/
+https://www.datascience.com/learn-data-science/fundamentals/introduction-to-correlation-python-data-science
+
+Previous Studies
+https://cdkn.org/project/economic-assessment-of-the-impacts-of-climate-change-in-uganda/?loclang=en_gb --- Innterview Based
+https://reliefweb.int/report/uganda/impacts-climate-change-food-security-and-livelihoods-karamoja ---focussed on Karamoja
